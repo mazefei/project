@@ -15,7 +15,7 @@ public class DemoApplication {
 
 	/**
 	 * 用户首页，用于登录之后给用户看一些信息
-	 * 信息可以从数据库中取，这边作为demo，暂时
+	 * 信息可以从数据库中取，这边作为demo，暂
 	 * @return
 	 */
 	@RequestMapping("home")
